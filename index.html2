@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FEMME CHEFFE – Menu Solidaire</title>
+</head>
+<body>
+
+  <h1>FEMME CHEFFE – Menu Solidaire</h1>
+  <p>Cuisine locale, savoir-faire féminin et entrepreneuriat culinaire.</p>
+
+  <h2>Entrées</h2>
+  <ul>
+    <li>
+      <strong>Salades de légumes fraîches</strong>
+      <p>Légumes locaux de saison préparés par nos cheffes partenaires.</p>
+    </li>
+    <li>
+      <strong>Pastels artisanaux</strong>
+      <p>Pastels croustillants pétris aux oeufs et farcis au poisson frais et épices douces.</p>
+    </li>
+    <li>
+      <strong>Soupe de légumes bio</strong>
+      <p>Recette traditionnelle enrichie aux épices naturelles.</p>
+    </li>
+  </ul>
+
+  <h2>Plats principaux</h2>
+  <ul>
+    <li>
+      <strong>Thieboudienne FEMME CHEFFE</strong>
+      <p>Riz au poisson préparé selon la tradition sénégalaise.</p>
+    </li>
+    <li>
+      <strong>Mafé de bœuf</strong>
+      <p>Sauce onctueuse à base d’arachide accompagnée de riz local.</p>
+    </li>
+    <li>
+      <strong>Yassa poulet</strong>
+      <p>Poulet mariné au citron, oignons et gingembre, recette familiale.</p>
+    </li>
+  </ul>
+
+  <h2>Desserts</h2>
+  <ul>
+    <li>
+      <strong>Thiakhry</strong>
+      <p>Semoule de mil, lait caillé et fruits frais râpés.</p>
+    </li>
+    <li>
+      <strong>Salade de fruits locaux</strong>
+      <p>Assortiment de fruits de saison cultivés localement.</p>
+    </li>
+    <li>
+      <strong>Gâteau coco au miel</strong>
+      <p>Préparé sous label Femme-Cheffe.</p>
+    </li>
+  </ul>
+
+  <p>
+    <a href="contact.html">Rejoindre notre restaurant FEMME CHEFFE ou passer votre commande</a>
+  </p>
+
+</body>
+</html>
